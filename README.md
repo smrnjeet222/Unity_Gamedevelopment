@@ -9,7 +9,7 @@ PC Game :
 
 
 WebGL : 
-- [**PLAY ONLINE**](https://smrnjeet-22.itch.io/the-cubethon)<br>
+- [**PLAY ONLINE**](https://smrnjeet-22.itch.io/the-cube)<br>
 
 ![screenshot](https://github.com/smrnjeet222/Unity_Gamedevelopment/blob/master/MYGAME.png)
 

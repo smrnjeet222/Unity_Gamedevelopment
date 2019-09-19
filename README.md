@@ -10,6 +10,8 @@ PC Game :
 WebGL : 
 - [**PLAY ONLINE**](https://smrnjeet-22.itch.io/the-cube)<br>
 
+<img style="float: right;" src="https://github.com/smrnjeet222/Unity_Gamedevelopment/blob/master/MYGAME.png">
+
 
 # FREAKY FROG
 
@@ -19,7 +21,7 @@ PC Game :
 WebGL : 
 - [**PLAY ONLINE**](https://smrnjeet-22.itch.io/freaky-frog)<br>
 
-![screenshot](https://github.com/smrnjeet222/Unity_Gamedevelopment/blob/master/MYGAME.png)
+![screenshot](https://github.com/smrnjeet222/Unity_Gamedevelopment/blob/master/FreakyFrog/best.png)
 
 
 

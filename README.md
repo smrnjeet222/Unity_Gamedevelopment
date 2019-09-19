@@ -13,8 +13,11 @@ WebGL :
 
 # FREAKY FROG
 
+PC Game :
 - [**GOOGLE DRIVE LINK**](https://drive.google.com/open?id=1d-E0UP9H9B0ZxXIw4FfnM9XhdHPhkUc5)<br>
 
+WebGL : 
+- [**PLAY ONLINE**](https://smrnjeet-22.itch.io/freaky-frog)<br>
 
 ![screenshot](https://github.com/smrnjeet222/Unity_Gamedevelopment/blob/master/MYGAME.png)
 

@@ -1,0 +1,8 @@
+title: Unity Game Development
+description: Game using Unity 2019.3.0a6 and C#
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
